@@ -16,7 +16,7 @@ I built a one page QR code webpage
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-component-main-green-phi.vercel.app/)
 
 ## My process
 Started by grouping the html page into different sections and giving them classnames 
